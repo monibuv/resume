@@ -1,3 +1,3 @@
 # resume
 
-[ HTML & CSS ] {https://monibuv.github.io/resume?}
+[ HTML & CSS ] {https://monibuv.github.io/resume/}
